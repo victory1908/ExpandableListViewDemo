@@ -29,11 +29,15 @@ public class MainActivity extends AppCompatActivity {
         data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Aston Martin"));
         data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "BMW"));
         data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Cadillac"));
-        data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.HEADER, "Places"));
-        data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Kerala"));
-        data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Tamil Nadu"));
-        data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Karnataka"));
-        data.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Maharashtra"));
+
+        ExpandableListAdapter.Item places = new ExpandableListAdapter.Item(ExpandableListAdapter.HEADER, "Places");
+        places.invisibleChildren = new ArrayList<>();
+        places.invisibleChildren.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Kerala"));
+        places.invisibleChildren.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Tamil Nadu"));
+        places.invisibleChildren.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Karnataka"));
+        places.invisibleChildren.add(new ExpandableListAdapter.Item(ExpandableListAdapter.CHILD, "Maharashtra"));
+
+        data.add(places);
 
         recyclerview.setAdapter(new ExpandableListAdapter(data));
     }
