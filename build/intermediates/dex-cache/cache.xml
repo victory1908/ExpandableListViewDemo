@@ -2,39 +2,67 @@
 <items version="2" >
 
     <item
-        jar="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/pre-dexed/debug/classes-49396aa1b69c64b2b04698031bf3d257e37636ce.jar" />
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_2cba0b7501a63e174e66c55a49d5f35698b89dce\classes.dex" />
     </item>
     <item
-        jar="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/pre-dexed/debug/classes-11e40580d4fbce8814eb663d1eabfa68bbfcba21.jar" />
+        jar="C:\Users\Vic\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_1b385a5064316c15895dcfd455d8590febd358c0\classes.dex" />
     </item>
     <item
-        jar="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
-        <dex dex="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/pre-dexed/debug/classes-44516221baecb089b74ef7e10c74bb536a5ede1c.jar" />
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_840261b181ec56289aa8f13bc67ad245b37a931e\classes.dex" />
     </item>
     <item
-        jar="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0ad21b8443adec370c67d095333439cbfd895d81.jar" />
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3516652d249ff6b0e7becd264b0bc13d2d09236">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bfb2644e81082d55e49aece0c1f1049476e3c463\classes.dex" />
     </item>
     <item
-        jar="/Users/anandbose/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/anandbose/Desktop/ExpandableListViewDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-4b39bf8f696912e6910cb57dc241f42c6f7dee79.jar" />
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_30e3ef2a3004589ff687bcae551320ddd8080dcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_4c34795404c34bdcd529025ae1f6eef59748f61f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_2196563c189829effcf2b772361aff8f229e2c24\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_1c1071a9c643ea758eaf998c1ba0a2abd098260a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f33f015bee7b81c9d46b569829d170632bc7dac3">
+        <dex dex="C:\Users\Vic\AndroidStudioProjects\ExpandableListViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9b03455f75f0136dca6c7f9cbf7df649635bc8cd\classes.dex" />
     </item>
 
 </items>
